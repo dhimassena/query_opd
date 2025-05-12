@@ -1,10 +1,13 @@
 # query_opd
 
-## query_usia
+## query menurut usia
 Menampilkan jumlah pegawai pada masing-masing OPD berdasarkan rentang usia tertentu
 
-## query_pendidikan
+## query menurutpendidikan
 Menampilkan jumlah pegawai berdasarkan tingkat pendidikan mereka pada masing-masing OPD
 
-## query_jenis_kelamin
+## query menurut jenis kelamin
 Menampilkan jumlah pegawai berdasarkan jenis kelamin pada masing-masing OPD
+
+## query menurut golongan
+Menampilkan jumlah pegawai berdasarkan golongan PNS pada masing-masing OPD
