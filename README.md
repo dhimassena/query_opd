@@ -14,3 +14,6 @@ Menampilkan jumlah pegawai berdasarkan golongan PNS pada masing-masing OPD
 
 ## query pensiun
 Menampilkan jumlah pegawai yang telah pensiun
+
+## query pejabat struktural
+Menampilkan jumlah pegawai yang menjabat jabatan struktural
